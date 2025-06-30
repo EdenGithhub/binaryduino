@@ -1,0 +1,13 @@
+click
+matplotlib 
+numpy 
+colorama 
+bitstring 
+pyserial 
+loguru 
+rich 
+pydantic 
+typer 
+tqdm 
+python-dotenv 
+click
